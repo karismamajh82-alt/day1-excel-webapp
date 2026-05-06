@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+.claude/settings.local.json
+새 텍스트 문서.txt
