@@ -4,3 +4,4 @@ dist/
 *.local
 .claude/settings.local.json
 새 텍스트 문서.txt
+*.xlsx
